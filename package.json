@@ -12,9 +12,10 @@
     "framer": "unframer 0db2cec6a51bfbc8 --outDir src/framer"
   },
   "dependencies": {
+    "@motionone/dom": "^10.13.1",
     "react": "latest",
-    "unframer": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "unframer": "latest"
   },
   "devDependencies": {
     "@types/react": "latest",
